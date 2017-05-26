@@ -1,0 +1,10 @@
+{
+  "name": "fluid-player",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Fluid Player",
+  "author": "Florin Tudor",
+  "license": "MIT",
+  "url": "https://github.com/exoclick-florin-tudor/fluid-player",
+  "homepage": "https://www.fluidplayer.com"
+}
